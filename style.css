@@ -210,6 +210,36 @@ body {
   list-style: none;
   padding: 0;
 }
+.contact-list li {
+  margin: 0.8rem 0;
+  font-size: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.contact-list i {
+  font-size: 1.3rem;
+  color: #00c4ff;
+  width: 25px;
+  text-align: center;
+  transition: transform 0.2s ease;
+}
+
+.contact-list i:hover {
+  transform: scale(1.2);
+}
+
+.contact-list a {
+  color: #0074D9;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.contact-list a:hover {
+  color: #00c4ff;
+}
+
 
 .contact-list li {
   margin: 0.5rem 0;
