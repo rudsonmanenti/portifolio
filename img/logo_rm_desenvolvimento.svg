@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 260">
+  <defs>
+    <linearGradient id="gradRM" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#222;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ff2d2d;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- RM -->
+  <text x="80" y="140"
+        font-family="Poppins, Arial, sans-serif"
+        font-size="120"
+        font-weight="700"
+        fill="url(#gradRM)">
+        RM
+  </text>
+
+  <!-- swoosh line -->
+  <path d="M70 160 C220 210, 420 210, 620 160"
+        stroke="#ff2d2d"
+        stroke-width="10"
+        fill="none"
+        stroke-linecap="round"/>
+
+  <!-- subtitle -->
+  <text x="80" y="220"
+        font-family="Poppins, Arial, sans-serif"
+        font-size="42"
+        letter-spacing="6"
+        fill="#555">
+        DESENVOLVIMENTO
+  </text>
+</svg>
