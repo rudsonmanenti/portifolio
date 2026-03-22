@@ -101,7 +101,11 @@ transition:var(--transition);
 }
 
 nav a:hover{
-color:var(--primary);
+background-color: var(--primary);
+color:var(--text);
+padding: 10px;
+border-radius: 60px;
+transition: var(--transition);
 }
 
 .hero{
