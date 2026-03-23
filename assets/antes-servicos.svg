@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" rx="32" fill="#11182d"/>
+  <rect x="36" y="36" width="1128" height="688" rx="28" fill="#ffffff" opacity=".03"/>
+  <rect x="72" y="72" width="1056" height="64" rx="22" fill="#ffffff" opacity=".05"/>
+  <rect x="110" y="94" width="160" height="18" rx="9" fill="#7a859f" opacity=".9"/>
+  <rect x="890" y="90" width="90" height="20" rx="10" fill="#ffffff" opacity=".08"/>
+  <rect x="992" y="90" width="90" height="20" rx="10" fill="#ffffff" opacity=".08"/>
+  <rect x="110" y="182" width="980" height="210" rx="28" fill="#ffffff" opacity=".06"/>
+  <text x="150" y="255" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700" fill="#ffffff">Empresa de serviços</text>
+  <text x="150" y="312" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#c6d0ee">Visual genérico e baixa percepção de valor</text>
+  <rect x="150" y="336" width="220" height="48" rx="24" fill="#9aa5c3"/>
+  <rect x="110" y="430" width="300" height="210" rx="24" fill="#ffffff" opacity=".06"/>
+  <rect x="450" y="430" width="300" height="210" rx="24" fill="#ffffff" opacity=".06"/>
+  <rect x="790" y="430" width="300" height="210" rx="24" fill="#ffffff" opacity=".06"/>
+  <rect x="142" y="468" width="160" height="18" rx="9" fill="#ffffff" opacity=".08"/>
+  <rect x="142" y="500" width="120" height="16" rx="8" fill="#ffffff" opacity=".06"/>
+  <rect x="482" y="468" width="160" height="18" rx="9" fill="#ffffff" opacity=".08"/>
+  <rect x="482" y="500" width="120" height="16" rx="8" fill="#ffffff" opacity=".06"/>
+  <rect x="822" y="468" width="160" height="18" rx="9" fill="#ffffff" opacity=".08"/>
+  <rect x="822" y="500" width="120" height="16" rx="8" fill="#ffffff" opacity=".06"/>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a1120"/>
+      <stop offset="100%" stop-color="#09182f"/>
+    </linearGradient>
+    <linearGradient id="ac" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#67f0d8"/>
+      <stop offset="100%" stop-color="#41bdf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1260" cy="140" r="180" fill="#67f0d8" opacity=".14"/>
+  <circle cx="180" cy="120" r="140" fill="#41bdf8" opacity=".12"/>
+  <rect x="70" y="55" width="1460" height="80" rx="24" fill="#ffffff" opacity=".05"/>
+  <rect x="110" y="85" width="180" height="20" rx="10" fill="url(#ac)"/>
+  <rect x="1120" y="80" width="130" height="26" rx="13" fill="#ffffff" opacity=".08"/>
+  <rect x="1270" y="80" width="160" height="26" rx="13" fill="#ffffff" opacity=".08"/>
+  <rect x="110" y="190" width="690" height="470" rx="34" fill="#ffffff" opacity=".05"/>
+  <rect x="110" y="190" width="690" height="470" rx="34" fill="url(#ac)" opacity=".10"/>
+  <rect x="870" y="190" width="620" height="180" rx="30" fill="#ffffff" opacity=".05"/>
+  <rect x="870" y="410" width="620" height="250" rx="30" fill="#ffffff" opacity=".05"/>
+  <text x="160" y="285" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#d9f6ff" opacity=".95">RM SERVIÇOS</text>
+  <text x="160" y="360" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700" fill="#ffffff">Serviço técnico com padrão profissional</text>
+  <text x="160" y="430" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#c6d0ee">Atendimento rápido, estrutura premium e foco em conversão.</text>
+  <rect x="160" y="500" width="250" height="58" rx="29" fill="url(#ac)"/>
+  <text x="215" y="538" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#06101a">Falar no WhatsApp</text>
+  <rect x="920" y="235" width="220" height="24" rx="12" fill="#ffffff" opacity=".08"/>
+  <rect x="920" y="280" width="430" height="18" rx="9" fill="#ffffff" opacity=".08"/>
+  <rect x="920" y="320" width="360" height="18" rx="9" fill="#ffffff" opacity=".08"/>
+  <rect x="920" y="450" width="150" height="140" rx="24" fill="url(#ac)" opacity=".65"/>
+  <rect x="1095" y="450" width="150" height="140" rx="24" fill="#ffffff" opacity=".08"/>
+  <rect x="1270" y="450" width="150" height="140" rx="24" fill="#ffffff" opacity=".08"/>
+  <rect x="920" y="700" width="210" height="14" rx="7" fill="#ffffff" opacity=".08"/>
+  <rect x="920" y="730" width="170" height="14" rx="7" fill="#ffffff" opacity=".06"/>
+</svg>
