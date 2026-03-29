@@ -359,6 +359,7 @@ img {
 
 .device {
   position: absolute;
+  display: grid;
   overflow: hidden;
   border-radius: 24px;
   border: 1px solid rgba(255,255,255,0.08);
@@ -370,14 +371,14 @@ img {
   width: 72%;
   height: 68%;
   left: 28px;
-  top: 52px;
+  top: 32px;
 }
 
 .side-device {
   width: 46%;
   height: 38%;
   right: 24px;
-  bottom: 108px;
+  bottom: 24px;
 }
 
 .device-top {
@@ -406,6 +407,7 @@ img {
 
 .image-service {
   background-image: url('assets/modelo-servicos.svg');
+  
 }
 
 .image-fashion {
@@ -416,7 +418,7 @@ img {
   position: absolute;
   left: 22px;
   right: 42px;
-  bottom: 62px;
+  bottom: 10px;
   padding: 20px;
   border-radius: 22px;
   background: linear-gradient(180deg, rgba(8, 12, 25, 0.15), rgba(8, 12, 25, 0.78));
@@ -425,6 +427,8 @@ img {
 
 .device-overlay.mini {
   padding: 16px;
+  
+  
 }
 
 .device-overlay small {
